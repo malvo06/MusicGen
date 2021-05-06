@@ -10,4 +10,4 @@ scikit-learn 0.23.2+
 
 3. Type jupyter-notebook in terminal of the root directory of the code
 
-3. Run the cells of 'lstm_final.ipynb' in jupyter-notebook 
+4. Run the cells of 'lstm_final.ipynb' in jupyter-notebook 
